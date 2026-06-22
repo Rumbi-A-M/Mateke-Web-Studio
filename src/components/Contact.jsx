@@ -24,9 +24,9 @@ export default function Contact() {
           </p>
 
           <ul className="contact__info">
-            <li><FiMapPin /> 14 Independence Avenue, Kampala, Uganda</li>
+            <li><FiMapPin />WARSAW, Poland</li>
             <li><FiMail /> hello@mateke.studio</li>
-            <li><FiPhone /> +256 700 123 456</li>
+            <li><FiPhone /> +48 504 787 116</li>
           </ul>
         </div>
 
